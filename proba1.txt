@@ -2,3 +2,5 @@ alma
 korte
 barack
 datolya
+cica
+kutya
